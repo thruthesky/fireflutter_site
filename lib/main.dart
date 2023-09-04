@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text("FireFlutter Site"),
+        title: const Text("FireFlutter Site 2"),
       ),
       body: Container(),
     );

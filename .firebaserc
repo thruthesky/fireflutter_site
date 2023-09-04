@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "site": "fireflutter-site",
+    "default": "fireflutter-site"
+  },
+  "targets": {},
+  "etags": {}
+}
